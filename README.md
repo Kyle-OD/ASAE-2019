@@ -6,7 +6,7 @@ This repository holds the coding and libraries for the SAE Aero Design Competiti
 
 ### Contributing Members
 
-Kyle O'Donnell
+Kyle O'Donnell, Brendan Jones, Luis Marcano, Matt Heebner
 
 ### State of the Project
 
