@@ -8,6 +8,8 @@ This repository holds the coding and libraries for the SAE Aero Design Competiti
 
 Kyle O'Donnell
 
+### State of the Project
+
 The files found in this repository are currently from the previous year's team, and will be updated and improved upon as we get our hardware in and figure out exacty what how we will need to code the Data Acquisition System and onboard receiver.
 
 ## 2020 Rules and Regulations
