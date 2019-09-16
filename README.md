@@ -4,7 +4,7 @@
 
 This repository holds the coding and libraries for the SAE Aero Design Competition Controls system for the 2020 competition.
 
-### Contributing Members
+### Controls Team
 
 Kyle O'Donnell, Brendan Jones, Luis Marcano, Matt Heebner
 
