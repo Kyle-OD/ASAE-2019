@@ -1,5 +1,13 @@
 # ASAE - 2020 Competition
 
+## University of Delaware Senior Design Team
+
+This repository holds the coding and libraries for the SAE Aero Design Competition Controls system for the 2020 competition.
+
+### Contributing Members
+
+Kyle O'Donnell
+
 The files found in this repository are currently from the previous year's team, and will be updated and improved upon as we get our hardware in and figure out exacty what how we will need to code the Data Acquisition System and onboard receiver.
 
 ## 2020 Rules and Regulations
