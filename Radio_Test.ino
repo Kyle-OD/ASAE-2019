@@ -1,20 +1,16 @@
 #include <RH_RF95.h> //LoRa Radio library
 
 /* Radio Module Pinout (Not Arduino Pin Numbers)
-    PIN 1 - GND
-    PIN 2 - MISO        : SPI Data Output
-    PIN 3 - MOSI        : SPI Data Input
-    PIN 4 - SCK         : SPI Clock Input
-    PIN 5 - NSS         : SPI Chip Select Input
-    PIN 6 - RESET       : Reset Trigger Input
-    PIN 7 - DIO5        : Digital I/O, software configured
-    PIN 8 - GND
-    PIN 9 - ANT         : RF Signal Output
-    PIN 10 - GND
-    PIN 11 - DIO3       : Digital I/O, software configured
-    PIN 12 - DIO4       : Digital I/O, software configured
-    PIN 13 - 3.3V       : Supply Voltage
-    PIN 14 - DIO0       : Digital I/O, software configured
-    PIN 15 - DIO1       : Digital I/O, software configured
-    PIN 16 - DIO2       : Digital I/O, software configured
+    VIN - Power in
+    GND - Ground
+    EN - Enable Pin, High on default, Low to cut power
+    G0 - GPIO 0 Pin, used for IRQ (Interrupt Request) used for interrupt request
+        from radio to microcontroller
+    SCK - SPI Clock Pin
+    MISO -  Master In Slave Out pin, data sent from processor to radio,
+        3.3V logic level
+    MOSI - Master Out Slave In pin, data sent from processor to radio
+    CS - Chip Select pin, drop to low for SPI transaction
+    RST - Reset pin, pulled high by default for reset, pull Low to turn on
+    G1-G5 - GPIO pins
  */
