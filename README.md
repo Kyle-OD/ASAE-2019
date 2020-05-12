@@ -8,15 +8,9 @@ This repository holds the coding and libraries for the SAE Aero Design Competiti
 
 Kyle O'Donnell, Brendan Jones, Luis Marcano, Matt Heebner
 
-### State of the Project
-
-The files found in this repository are currently from the previous year's team, and will be updated and improved upon as we get our hardware in and figure out exacty what how we will need to code the Data Acquisition System and onboard receiver.
-
 ## Current Objectives
 
-* Continue reading code, finding areas that can be imporved upon
-
-* Write test code for DAS radio system.  Currently waiting on hardware to arrive.
+* None - Project finished
 
 ## 2020 Rules and Regulations
 
